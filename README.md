@@ -38,13 +38,13 @@ I have forked this repository to track my learning; the original is maintained b
 
 - ~~[TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)~~
 - ~~[TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)~~
-- [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
-- [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
-- [TryHackMe | SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
+- ~~[TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)~~
+- ~~[TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)~~
+- ~~[TryHackMe | SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)~~
 - ~~[TryHackMe | Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)~~
 - ~~[TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)~~
-- [TryHackMe | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
-- [TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
+- ~~[TryHackMe | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)~~
+- ~~[TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)~~
 - [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
 - [TryHackMe | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
 - [TryHackMe | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
