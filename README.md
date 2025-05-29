@@ -1,39 +1,6 @@
 # TryHackMe Free Rooms
 I have forked this repository to track my learning; the original is maintained by [ winterrdog ](https://github.com/winterrdog/).
 
-## Table of Contents
-
-| Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
-| ------------------------------------------------- | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**            |     **19**      |                           |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **3**      |                           |
-| **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
-| **[Basic Rooms](#basics-rooms)**                  |     **13**      |                           |
-| **[Reconnaissance](#recon)**                      |     **10**      |                           |
-| **[Scripting](#scripting)**                       |      **7**      |                           |
-| **[Networking](#networking)**                     |      **6**      |                           |
-| **[Tooling](#tooling)**                           |     **19**      |                           |
-| **[Crypto & Hashes](#cryptography--hashes)**      |      **7**      |                           |
-| **[Steganography](#steganography)**               |      **6**      |                           |
-| **[Web](#web)**                                   |     **29**      |                           |
-| **[Android](#android)**                           |      **1**      |                           |
-| **[Forensics](#forensics)**                       |     **12**      |                           |
-| **[Wifi Hacking](#wi-fi-hacking)**                |      **1**      |                           |
-| **[Reverse Engineering](#reverse-engineering)**   |     **10**      |                           |
-| **[Malware Analysis](#malware-analysis)**         |      **8**      |                           |
-| **[Privilege Escalation](#privesc)**              |     **13**      |                           |
-| **[Windows](#windows)**                           |      **9**      |                           |
-| **[Active Directory](#active-directory)**         |      **6**      |                           |
-| **[PCAP Analysis](#pcap-analysis)**               |      **4**      |                           |
-| **[Buffer Overflow](#buffer-overflow)**           |      **4**      |                           |
-| **[Easy CTF](#easy-ctf)**                         |     **52**      |                           |
-| **[Medium CTF](#medium-ctf)**                     |     **55**      |                           |
-| **[Hard CTF](#hard-ctf)**                         |     **40**      |                           |
-| **[Misc](#misc)**                                 |     **40**      |                           |
-| **[Special Events](#special-events)**             |     **10**      |                           |
-| **[Container Security](#container-security)**     |      **2**      |                           |
-| **Total Rooms:**                                  |    **= 391**    |                           |
-
 ## Intro Rooms
 
 - ~~[TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)~~
@@ -45,7 +12,7 @@ I have forked this repository to track my learning; the original is maintained b
 - ~~[TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)~~
 - ~~[TryHackMe | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)~~
 - ~~[TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)~~
-- [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
+- ~~[TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)~~
 - [TryHackMe | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
 - [TryHackMe | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
 - [TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
