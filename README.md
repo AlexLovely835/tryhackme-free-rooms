@@ -1,43 +1,21 @@
-# TryHackMe Free Rooms( _they cost $0.00000_ )
-
-<br/>
-
-Hey people, here's a list of **390+ Free TryHackMe rooms** to start learning hacking. I have arranged & compiled them according to different topics so that you can start hacking right now and also!
-
-All the rooms herein, are absolutely free. ATTACK!!
-
-## Maintainer
-
-> **_This repository is maintained by [ winterrdog ](https://github.com/winterrdog/). For any suggestion feel free to reach out to [me.](https://t.me/winterrdog)_**
-
-## NEWS
-
-Hey cyber-hard guys, no news for now. Just go hard at your grind each second of the day
-
-## HOW YOU CAN SUPPORT
-
-If you genuinely feel like this project helped you a lot, you can always send your appreciation _anonymously_ to these wallets:
-
-- BTC: `17duzuYcv1QRDojfvmFVFowrKBe9EyQ1Bo`
-- USDT: `TWSv2CmzZ9Xgp8j8PwfTDZ329CXJPokpHH`
+# TryHackMe Free Rooms
+I have forked this repository to track my learning; the original is maintained by [ winterrdog ](https://github.com/winterrdog/).
 
 ## Table of Contents
-
-</aside>
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
 | **[Introductory Rooms](#intro-rooms)**            |     **19**      |                           |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |           **5**           |
+| **[Linux Fundamentals](#linux-fundamentals)**     |      **3**      |                           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |     **13**      |                           |
 | **[Reconnaissance](#recon)**                      |     **10**      |                           |
 | **[Scripting](#scripting)**                       |      **7**      |                           |
-| **[Networking](#networking)**                     |      **7**      |                           |
+| **[Networking](#networking)**                     |      **6**      |                           |
 | **[Tooling](#tooling)**                           |     **19**      |                           |
 | **[Crypto & Hashes](#cryptography--hashes)**      |      **7**      |                           |
 | **[Steganography](#steganography)**               |      **6**      |                           |
-| **[Web](#web)**                                   |     **30**      |                           |
+| **[Web](#web)**                                   |     **29**      |                           |
 | **[Android](#android)**                           |      **1**      |                           |
 | **[Forensics](#forensics)**                       |     **12**      |                           |
 | **[Wifi Hacking](#wi-fi-hacking)**                |      **1**      |                           |
@@ -47,14 +25,14 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | **[Windows](#windows)**                           |      **9**      |                           |
 | **[Active Directory](#active-directory)**         |      **6**      |                           |
 | **[PCAP Analysis](#pcap-analysis)**               |      **4**      |                           |
-| **[Buffer Overflow](#bufferoverflow)**            |      **4**      |                           |
+| **[Buffer Overflow](#buffer-overflow)**           |      **4**      |                           |
 | **[Easy CTF](#easy-ctf)**                         |     **52**      |                           |
 | **[Medium CTF](#medium-ctf)**                     |     **55**      |                           |
 | **[Hard CTF](#hard-ctf)**                         |     **40**      |                           |
 | **[Misc](#misc)**                                 |     **40**      |                           |
 | **[Special Events](#special-events)**             |     **10**      |                           |
 | **[Container Security](#container-security)**     |      **2**      |                           |
-| **Total Rooms:**                                  |    **= 392**    |                           |
+| **Total Rooms:**                                  |    **= 391**    |                           |
 
 ## Intro Rooms
 
@@ -63,8 +41,8 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
 - [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
 - [TryHackMe | SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
-- [TryHackMe | Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)
-- [TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)
+- ~~[TryHackMe | Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)~~
+- ~~[TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)~~
 - [TryHackMe | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
 - [TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
 - [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
@@ -91,29 +69,25 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 - [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
-- [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+- ~~[TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)~~
 
-- [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- ~~[TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)~~
 
-- [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
+- ~~[TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)~~
 
 - [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
 ## Linux Fundamentals
 
 - [TryHackMe |  Modules](https://tryhackme.com/room/linuxmodules)
-- [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
-- [Basics of Linux](https://linuxjourney.com/) -- added this since the funcdamentals rooms were all made premium.
-
-In case you need deeper study into Linux read follow these:
-- [A very deep dive book](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf) -- It's around 900 pages
-- [A reddit community where Linux challenges are posted daily](https://www.reddit.com/r/linuxupskillchallenge/) -- More like practice or keeping in loop
+- ~~[TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)~~
+- [Basics of Linux](https://linuxjourney.com/)
 
 ## Windows Fundamentals
 
-- [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
-- [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
-- [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+- ~~[TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)~~
+- ~~[TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)~~
+- ~~[TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)~~
 
 ## Basics Rooms
 
@@ -131,9 +105,9 @@ In case you need deeper study into Linux read follow these:
 
 - [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
-- [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
+- ~~[TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)~~
 
-- [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
+- ~~[TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)~~
 
 - [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
@@ -149,13 +123,13 @@ In case you need deeper study into Linux read follow these:
 
 ## Recon
 
-- [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
+- ~~[TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)~~
 
-- [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
+- ~~[TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)~~
 
 - [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
 
-- [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
+- ~~[TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)~~
 
 - [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
 
@@ -170,7 +144,7 @@ In case you need deeper study into Linux read follow these:
 ## Scripting
 - [TryHackMe | Custom Tooling Using Python](https://tryhackme.com/room/customtoolingpython)
 
-- [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
+- ~~[TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)~~
 
 - [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground)
 
@@ -186,17 +160,15 @@ In case you need deeper study into Linux read follow these:
 
 ## Networking
 
-- [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- ~~[TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)~~
 
-- [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
+- ~~[TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)~~
 
 - [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 
-- ~~[TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)~~ -- TryHackMe made this room **PREMIUM**. Try using [this deep](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet) Khan Academy resource, it's excellent trust me!
+- ~~[TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)~~
 
-- [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
-
-- [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
+- ~~[TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)~~
 
 - [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
@@ -206,7 +178,7 @@ In case you need deeper study into Linux read follow these:
 - [TryHackMe | Snyk Code](https://tryhackme.com/r/room/snykcode)
 - [TryHackMe | Intro to IaC](https://tryhackme.com/room/introtoiac)
 
-- [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
+- ~~[TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)~~
 
 - [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/rpmetasploit)
 
@@ -214,7 +186,7 @@ In case you need deeper study into Linux read follow these:
 
 - [TryHackMe | REmux The Tmux](https://tryhackme.com/room/tmuxremux)
 
-- [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
+- ~~[TryHackMe | Hydra](https://tryhackme.com/room/hydra)~~
 
 - [TryHackMe | Toolbox: Vim](https://tryhackme.com/room/toolboxvim)
 
@@ -226,15 +198,15 @@ In case you need deeper study into Linux read follow these:
 
 - [TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux)
 
-- [TryHackMe | Nmap Live Host Discovery](https://tryhackme.com/room/nmap01)
+- ~~[TryHackMe | Nmap Live Host Discovery](https://tryhackme.com/room/nmap01)~~
 
-- [TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
+- ~~[TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)~~
 
 - [TryHackMe | TShark](https://tryhackme.com/room/tshark)
 
 - [TryHackMe | ffuf](https://tryhackme.com/room/ffuf)
 
-- [TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
+- ~~[TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)~~
 
 - [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
 
@@ -254,15 +226,15 @@ In case you need deeper study into Linux read follow these:
 
 - [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
 
-- [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
+- ~~[TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)~~
 
 - [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
 
 - [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf)
 
-- [TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
+- ~~[TryHackMe | Brute It](https://tryhackme.com/room/bruteit)~~
 
-- [TryHackMe | Introduction to Cryptography](https://tryhackme.com/room/cryptographyintro)
+- ~~[TryHackMe | Introduction to Cryptography](https://tryhackme.com/room/cryptographyintro)~~
 
 ## Steganography
 
@@ -293,15 +265,13 @@ In case you need deeper study into Linux read follow these:
 
 - [TryHackMe | OWASP Broken Access Control](https://tryhackme.com/room/owaspbrokenaccesscontrol)
 
-- [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
-
 - [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
 
 - [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)
 
 - [TryHackMe | OWASP Top 10 - 2021](https://tryhackme.com/room/owasptop102021)
 
-- [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)
+- ~~[TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)~~
 
 - [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 
@@ -315,15 +285,15 @@ In case you need deeper study into Linux read follow these:
 
 - [TryHackMe | Juicy Details](https://tryhackme.com/room/juicydetails)
 
-- [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity)
+- ~~[TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity)~~
 
 - [TryHackMe | SQL Injection Lab](https://tryhackme.com/room/sqlilab)
 
 - [TryHackMe | SSTI](https://tryhackme.com/room/learnssti)
 
-- [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
+- ~~[TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)~~
 
-- [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
+- ~~[TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)~~
 
 - [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 
@@ -426,7 +396,7 @@ In case you need deeper study into Linux read follow these:
 ## PrivEsc
 
 - [TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
-- [TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
+- ~~[TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)~~
 - [TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
 - [TryHackMe | Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
 - [TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
@@ -437,7 +407,7 @@ In case you need deeper study into Linux read follow these:
 - [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 - [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
 - [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
-- [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
+- ~~[TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)~~
 
 ## Windows
 
@@ -521,14 +491,14 @@ In case you need deeper study into Linux read follow these:
 - [TryHackMe | Confidential](https://tryhackme.com/room/confidential)
 - [TryHackMe | OverlayFS - CVE-2021-3493](https://tryhackme.com/room/overlayfs)
 - [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
-- [TryHackMe | Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
+- ~~[TryHackMe | Bounty Hacker](https://tryhackme.com/room/cowboyhacker)~~
 - [TryHackMe | Fowsniff CTF](https://tryhackme.com/room/ctf)
 
 - [TryHackMe | RootMe](https://tryhackme.com/room/rrootme)
 
 - [TryHackMe | AttackerKB](https://tryhackme.com/room/attackerkb)
 
-- [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
+- ~~[TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)~~
 
 - [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 
@@ -536,7 +506,7 @@ In case you need deeper study into Linux read follow these:
 
 - [TryHackMe | Thompson](https://tryhackme.com/room/bsidesgtthompson)
 
-- [TryHackMe | Simple CTF](https://tryhackme.com/room/easyctf)
+- ~~[TryHackMe | Simple CTF](https://tryhackme.com/room/easyctf)~~
 
 - [TryHackMe | LazyAdmin](https://tryhackme.com/room/lazyadmin)
 
@@ -911,7 +881,7 @@ In case you need deeper study into Linux read follow these:
 
 - [TryHackMe | Erlang/OTP SSH: CVE_2025_32433](https://tryhackme.com/room/erlangotpsshcve202532433)
 - [TryHackMe | Next.js: CVE-2025-29927](https://tryhackme.com/room/nextjscve202529927)
-- [TryHackMe | Training Impact on Teams](https://tryhackme.com/r/room/training)
+- ~~[TryHackMe | Training Impact on Teams](https://tryhackme.com/r/room/training)~~
 - [TryHackMe | PaperCut: CVE-2023-27350](https://tryhackme.com/r/room/papercut)
 - [TryHackMe | Moniker Link (CVE-2024-21413)](https://tryhackme.com/room/monikerlink)
 - [TryHackMe | Confluence CVE-2023-22515](https://tryhackme.com/room/confluence202322515)
