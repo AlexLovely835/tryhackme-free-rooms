@@ -26,15 +26,15 @@ I have forked this repository to track my learning; the original is maintained b
 - [TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
 - [TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 
-- [TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
+- ~~[TryHackMe | SDLC](https://tryhackme.com/room/sdlc)~~
 
-- [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+- ~~[TryHackMe | Welcome](https://tryhackme.com/room/hello)~~
 
-- [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+- ~~[TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)~~
 
-- [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
+- ~~[TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)~~
 
-- [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+- ~~[TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)~~
 
 - ~~[TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)~~
 
