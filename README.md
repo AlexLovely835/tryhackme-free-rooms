@@ -42,7 +42,7 @@ I have forked this repository to track my learning; the original is maintained b
 
 - ~~[TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)~~
 
-- [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
+- ~~[TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)~~
 
 ## Linux Fundamentals
 
