@@ -46,9 +46,8 @@ I have forked this repository to track my learning; the original is maintained b
 
 ## Linux Fundamentals
 
-- [TryHackMe |  Modules](https://tryhackme.com/room/linuxmodules)
+- ~~[TryHackMe |  Modules](https://tryhackme.com/room/linuxmodules)~~
 - ~~[TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)~~
-- [Basics of Linux](https://linuxjourney.com/)
 
 ## Windows Fundamentals
 
